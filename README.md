@@ -7,7 +7,7 @@ de plus on obtient un historique des tests.
 **Realisation**
 
 >Assistant test unitaire
-![alt text](https://github.com/clurgen/TestUnitaire/blob/master/AjouterAssistantTest.PNG)
+![alt text](https://github.com/clurgen/TestUnitaire/blob/master/InterfaceTestUnitaire.jpg)
 
 Le code de Ean13TestU est déja écrit automatiquement en fonction des différentes méthodesde la classes Ean13. 
 On modifie alors les retours des methodes et cela nous permet de verifier les resultats de chaque test
